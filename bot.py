@@ -12,7 +12,7 @@ bot = ChatBot(
 
 # Start program
 print('Type something to begin...')
-# The following loop will execute each time the user enters input
+# The following loop will execute each time the user enters input in the terminal
 while True:
     try:
         user_input = input()
