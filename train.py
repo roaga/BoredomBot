@@ -19,6 +19,7 @@ with open('trainingdata.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
     for row in csv_reader:
         lists.append(row)
+print(lists)
 
 # Train the bot
 trainer = ListTrainer(bot)
