@@ -5,13 +5,18 @@ bot = ChatBot(
     'BoreBot',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     logic_adapters=[
-        'chatterbot.logic.BestMatch'
+        {
+            "import_path": "chatterbot.logic.BestMatch",
+            'default_response': ("Perhaps you should do a little more thinking and" 
+                                " be more targeted in figuring out your own mind and purpose."),
+            'maximum_similarity_threshold': 0.70
+        }
     ],
     database_uri='sqlite:///database.db'
 )
 
 # Start program
-print('Type something to begin...')
+print("I'm guessing you're bored...")
 # The following loop will execute each time the user enters input in the terminal
 while True:
     try:
