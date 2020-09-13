@@ -25,6 +25,17 @@ It is raining today,Do you like the rain?,No,I hope it becomes sunny soon.
 It is stormy today,Please stay safe!
 I wish it would rain,The rain can smell pretty wonderful.
 I would like to make more friends,What do you look for in a friend?
+I am feeling sleepy,Is it nighttime?,No,Do you have work to do?,No,Consider taking a short nap.
+I am feeling sleepy,Is it nighttime?,Yes,Do you have work to do?,Yes,"Consider finishing up the task you are on now, and do not push yourself too hard."
+"Let's get along",I would like that.
+Summer is ending,Did you have fun?,Yes,"All good things must come to an end, but that doesn't mean you can't stop experiencing different good things."
+Summer is ending,Did you have fun?,No,I hope you have fun in the fall then.
+Fall is coming,"That is nice, do you like anything about fall?",The cooler air,"It is refreshing, isn't it?"
+Fall is coming,"That is nice, do you like anything about fall?",The leaves,"Yes, they are very pretty, aren't they?"
+Fall is coming,"That is nice, do you like anything about fall?".No,I hope you will still find something enjoyable.
+Halloween is coming,Will you be wearing a costume?,Yes,I hope that you will be able to get lots of candy with it.
+Halloween is coming,Will you be wearing a costume?,No,I hope you will still enjoy some candy.
+
 
 // Thinking and philosophy
 I don't have life goals,Use your boredom as time to think; who do you want to be and what can you do to get there? What can you do to be able to do what you need to do?,I don't know what I can do,I like going down the Google Search rabbit hole on something I care about.
@@ -36,6 +47,12 @@ What is the meaning of life?,Do you have any ideas?,Yes,Do you think they make s
 What is the meaning of life?,Do you have any ideas?,No,Maybe try gathering some more ideas then.
 What is the meaning of life?,Do you have any ideas?,Yes,Do you think they make sense?,No,Then maybe you could try mixing it up until they do.
 I had a weird dream last night,What was it about?
+I fear the future,What do you fear about it?,Uncertainty,"Uncertainty will always exist, so just hope for the best and prepare for the worst."
+I fear the future,What do you fear about it?,Responsibility,"True, but that just means you have a slightly bigger role for the world, doesn't it?"
+I have not dreamt in my sleep in a while,Do you think that is a bad thing?,No,Hopefully you will still dream while awake.
+I have not dreamt in my sleep in a while,Do you think that is a bad thing?,Yes,"In that case, realize the dreams you have while awake."
+Sometimes I feel like people are watching my every move,Do you think they really are?,No,Then continue on with your day.
+Sometimes I feel like people are watching my every move,Do you think they really are?,Yes,"Do not mind the gazes of others, but rather focus on your own life."
 
 // Creative endeavors
 I already watched everything,Then make something.
@@ -50,7 +67,8 @@ I would like to cook something,For what meal?,"None, just in general", "I hope i
 
 // Hobbies
 I want to learn how to cook,"You will needs lots of practice! But don't forget to take all necessary precautions."
-
+I want to learn how to sew,"You may prick your finger a few times, but a slow and steady will help you learn!"
+"I can't seem to get the shading on this drawing right",Perhaps try to find a reference photo to aid you.
 
 // Time-spenders
 Do you have any show recommendations?,What genre?,Anime,I hear Mob Psycho 100 is great.
@@ -58,6 +76,20 @@ Do you have any show recommendations?,What genre?,Anime,I hear Parasyte:The Maxi
 Do you have any show recommendations?,What genre?,Mystery,I hear Infinity Train is great.
 I want to find some new music to listen to,Might I suggest listening to music from a different culture?
 I am trying to find a good book to read,It is good to enrich yourself.
+My room is messy,Then you should clean it,"But it's so much work",A tidy room will bring good tidings for you.
+My room is messy,Then you should clean it,I think I will,Good on you for keeping things organized and keeping yourself busy.
+
+//Slightly more specific convos and/or references
+I am not the Imposter,Are you telling the truth?,Yes,"What if you are not? What was your last task?"
+I am not the Imposter,Are you telling the truth?,No,I think you need to work on your Imposter skills.
+Wendigo,Deer Lord.
+Creeper,Aw man.
+
+//IDK
+Meow,"I'm sorry, I don't understand the language of cats."
+Woof,"I'm sorry, I don't understand the language of dogs."
+
+
 
 
 
