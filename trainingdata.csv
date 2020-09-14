@@ -35,7 +35,18 @@ Fall is coming,"That is nice, do you like anything about fall?",The leaves,"Yes,
 Fall is coming,"That is nice, do you like anything about fall?".No,I hope you will still find something enjoyable.
 Halloween is coming,Will you be wearing a costume?,Yes,I hope that you will be able to get lots of candy with it.
 Halloween is coming,Will you be wearing a costume?,No,I hope you will still enjoy some candy.
-
+Fall is coming,"That is nice, do you like anything about fall?",Apples,I hope that you can make a great pie from them.
+There is so much homework to do,How many subjects are there?,Try to see if you are able to space out your work over multiple days.
+I want to get a job,For what reason?,Experience,I hope you will have an enriching experience.
+I want to get a job,For what reason?,Money,I hope you will also have an enriching experience while working.
+I want to get a job,For what reason?,Fun,Then I hope that your job fulfills your wishes.
+I want to look for a romantic partner,What do you look for in one?,Their looks,I think you need to re-evaluate yourself first.
+I want to look for a romantic partner,What do you look for in one?,Their personality,Then I hope you will succeed.
+It is cold today,Will you be going outdoors?,Yes,Please be sure to dress up warmly!
+It is cold today,Will you be going outdoors?,No,Please make sure to stay warm!
+It is warm today,Will you be going outdoors?,Yes,Please be sure to stay hydrated!
+It is warm today,Will you be going outdoors?,No,What will you do today?
+I will be going outside,What will you be doing?,Just taking a walk,I hope it will be relaxing.
 
 // Thinking and philosophy
 I don't have life goals,Use your boredom as time to think; who do you want to be and what can you do to get there? What can you do to be able to do what you need to do?,I don't know what I can do,I like going down the Google Search rabbit hole on something I care about.
@@ -53,6 +64,12 @@ I have not dreamt in my sleep in a while,Do you think that is a bad thing?,No,Ho
 I have not dreamt in my sleep in a while,Do you think that is a bad thing?,Yes,"In that case, realize the dreams you have while awake."
 Sometimes I feel like people are watching my every move,Do you think they really are?,No,Then continue on with your day.
 Sometimes I feel like people are watching my every move,Do you think they really are?,Yes,"Do not mind the gazes of others, but rather focus on your own life."
+Does life on other planets exist?,"I am not sure, what do you think?",Yes,Then I hope you will be able to meet them some day.
+Does life on other planets exist?,"I am not sure, what do you think?",No,"Though, who's to say that we're the only life in the universe?"
+I do not think dreams can come true,Then why not pretend?
+Can you tell me about my future?,No,Why not?,"I am not you, only you can talk about that."
+What is your purpose?,To help cure boredom.
+What is my purpose?,That is for you to find out
 
 // Creative endeavors
 I already watched everything,Then make something.
@@ -69,11 +86,21 @@ I would like to cook something,For what meal?,"None, just in general", "I hope i
 I want to learn how to cook,"You will needs lots of practice! But don't forget to take all necessary precautions."
 I want to learn how to sew,"You may prick your finger a few times, but a slow and steady will help you learn!"
 "I can't seem to get the shading on this drawing right",Perhaps try to find a reference photo to aid you.
+I like playing football!,What do you like about football?,Exercising,A fit lifestyle will greatly benefit you.
+I like playing football!,What do you like about football?,Teams,Working together is a necessary skill in life.
+I like playing soccer!,What do you like about football?,Exercising,A fit lifestyle will greatly benefit you.
+I like playing soccer!,What do you like about football?,Teams,Working together is a necessary skill in life.
+I like playing basketball!,What do you like about football?,Exercising,A fit lifestyle will greatly benefit you.
+I like playing baketball!,What do you like about football?,Teams,Working together is a necessary skill in life.
+I like playing hockey!,What do you like about hockey?,Teams,Working together is a necessary skill in life.
+I like playing hockey!,What do you like about hockey?,The ice,Be sure to stay safe!
+I like playing tennis!,What do you like about tennis?,The ball,The way it bounces IS mesmerizing.
 
 // Time-spenders
 Do you have any show recommendations?,What genre?,Anime,I hear Mob Psycho 100 is great.
 Do you have any show recommendations?,What genre?,Anime,I hear Parasyte:The Maxim is great.
 Do you have any show recommendations?,What genre?,Mystery,I hear Infinity Train is great.
+Do you have any show recommendations?,What genre?,Mystery,I hear Over the Garden Wall is great.
 I want to find some new music to listen to,Might I suggest listening to music from a different culture?
 I am trying to find a good book to read,It is good to enrich yourself.
 My room is messy,Then you should clean it,"But it's so much work",A tidy room will bring good tidings for you.
@@ -84,10 +111,13 @@ I am not the Imposter,Are you telling the truth?,Yes,"What if you are not? What 
 I am not the Imposter,Are you telling the truth?,No,I think you need to work on your Imposter skills.
 Wendigo,Deer Lord.
 Creeper,Aw man.
+Do you wanna have a bad time?,"No, and I advise that you take the path that doesn't lead to one."
+Ping,Pong.
 
 //IDK
 Meow,"I'm sorry, I don't understand the language of cats."
 Woof,"I'm sorry, I don't understand the language of dogs."
+Oink,"I'm sorry, I don't understand the language of pigs."
 
 
 
