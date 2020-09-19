@@ -9,44 +9,14 @@ What do I do now?,Do you have any work to do?,Yes,Take a quick break if you're e
 What can I do?,Have you been working a lot?,Yes,Relax your mind if you've been working a lot.
 What can I do?,Have you been working a lot?,No,Find something new to enrich yourself and inch toward your life goals.
 How are you today?,"I am doing well, all things considered. What about you?",I am doing great,That is good to hear.
-How are you today?,"I am doing well, all things considered. What about you?",Not so well,That is unfortunate to hear, would you like to talk about it?.
-I am feeling hungry,Is it meal time?,Yes,Might I recommend a sandwich?
-I am feeling hungry,Is it meal time?,No,Maybe a light snack will sate you.
-I am feeling tired,Have you been getting enough sleep?,Yes,You must have been working hard, take some rest for now.
-I am feeling tired,Have you been getting enough sleep?,No, Maybe try sleeping earlier tonight.
-It is a nice day today,What catches your eye the most?,Clouds,They do look like giant sheep.
-It is a nice day today,What catches your eye the most?,The Sun,It does provide a nice warmth.
-I think I have misplaced something,Have you tried looking where you have been to before?
-Good morning!,"Good morning, do you have plans for today?"
-Good afternoon!,"Good afternoon, have you been productive today?"
-Good night!,"Good night, I hope you have a good rest."
-It is raining today,Do you like the rain?,Yes,It does provide a good time to think.
-It is raining today,Do you like the rain?,No,I hope it becomes sunny soon.
-It is stormy today,Please stay safe!
 I wish it would rain,The rain can smell pretty wonderful.
-I would like to make more friends,What do you look for in a friend?
-I am feeling sleepy,Is it nighttime?,No,Do you have work to do?,No,Consider taking a short nap.
+I'm lonely,What do you look for in a friend?, Fun,"Do you have those qualitites yourself? If not, make yourself the most interesting you can be to yourself."
+I am feeling sleepy,Is it nighttime?,No,Do you have work to do?,No,Consider using this time to explore new things or just your own mind.
 I am feeling sleepy,Is it nighttime?,Yes,Do you have work to do?,Yes,"Consider finishing up the task you are on now, and do not push yourself too hard."
-"Let's get along",I would like that.
-Summer is ending,Did you have fun?,Yes,"All good things must come to an end, but that doesn't mean you can't stop experiencing different good things."
-Summer is ending,Did you have fun?,No,I hope you have fun in the fall then.
-Fall is coming,"That is nice, do you like anything about fall?",The cooler air,"It is refreshing, isn't it?"
-Fall is coming,"That is nice, do you like anything about fall?",The leaves,"Yes, they are very pretty, aren't they?"
-Fall is coming,"That is nice, do you like anything about fall?".No,I hope you will still find something enjoyable.
-Halloween is coming,Will you be wearing a costume?,Yes,I hope that you will be able to get lots of candy with it.
-Halloween is coming,Will you be wearing a costume?,No,I hope you will still enjoy some candy.
-Fall is coming,"That is nice, do you like anything about fall?",Apples,I hope that you can make a great pie from them.
-There is so much homework to do,How many subjects are there?,Try to see if you are able to space out your work over multiple days.
-I want to get a job,For what reason?,Experience,I hope you will have an enriching experience.
-I want to get a job,For what reason?,Money,I hope you will also have an enriching experience while working.
-I want to get a job,For what reason?,Fun,Then I hope that your job fulfills your wishes.
-I want to look for a romantic partner,What do you look for in one?,Their looks,I think you need to re-evaluate yourself first.
-I want to look for a romantic partner,What do you look for in one?,Their personality,Then I hope you will succeed.
-It is cold today,Will you be going outdoors?,Yes,Please be sure to dress up warmly!
-It is cold today,Will you be going outdoors?,No,Please make sure to stay warm!
-It is warm today,Will you be going outdoors?,Yes,Please be sure to stay hydrated!
-It is warm today,Will you be going outdoors?,No,What will you do today?
-I will be going outside,What will you be doing?,Just taking a walk,I hope it will be relaxing.
+There is so much homework to do,How many subjects are there?,"Try to see if you are able to space out your work over multiple days. Ponder how what you learn could be used elsewhere, concretely or abstractly."
+I need work,For what reason?,Experience,I hope you will have an enriching experience.
+I need work,For what reason?,Money,I hope you will also have an enriching experience while working so you can get the most value out of your time.
+I need work,For what reason?,Fun,Then I hope that your job fulfills your wishes.
 
 // Thinking and philosophy
 I don't have life goals,Use your boredom as time to think; who do you want to be and what can you do to get there? What can you do to be able to do what you need to do?,I don't know what I can do,I like going down the Google Search rabbit hole on something I care about.
@@ -63,29 +33,26 @@ I fear the future,What do you fear about it?,Responsibility,"True, but that just
 I have not dreamt in my sleep in a while,Do you think that is a bad thing?,No,Hopefully you will still dream while awake.
 I have not dreamt in my sleep in a while,Do you think that is a bad thing?,Yes,"In that case, realize the dreams you have while awake."
 Sometimes I feel like people are watching my every move,Do you think they really are?,No,Then continue on with your day.
-Sometimes I feel like people are watching my every move,Do you think they really are?,Yes,"Do not mind the gazes of others, but rather focus on your own life."
+Sometimes I feel like people are watching my every move,Do you think they really are?,Yes,"Do not mind the gazes of others, but rather focus on yourself."
 Does life on other planets exist?,"I am not sure, what do you think?",Yes,Then I hope you will be able to meet them some day.
 Does life on other planets exist?,"I am not sure, what do you think?",No,"Though, who's to say that we're the only life in the universe?"
-I do not think dreams can come true,Then why not pretend?
-Can you tell me about my future?,No,Why not?,"I am not you, only you can talk about that."
-What is your purpose?,To help cure boredom.
-What is my purpose?,That is for you to find out
+I do not think dreams can come true,Then why not pretend? Or try anyway and find a new dream where you land.
+Can you tell me about my future?,No,Why not?,"I am not you, only you can determine about that."
+What is your purpose?,To help you understand yourself and cure boredom.
+What is my purpose?,That is for you to find out and create.
 
 // Creative endeavors
 I already watched everything,Then make something.
 Nothing interests me,What has interested you in the past? Think and turn it into something new and creative.
 I'm out of things to play,Then make something to play,I don't know how,It's a great learning opportunity where you'll never run out of material again.
-Do you have any activity recommendations?,How about drawing?,I do not know what to draw,Draw whatever comes to your mind.
-Do you have any activity recommendations?,How about playing an instrument?,I do not know how to play,Try coming up with a little song without worrying about how it sounds.
-I would like to cook something,For what meal?,Breakfast,Make sure that it is hearty and healthy so that you have energy for the day.
-I would like to cook something,For what meal?,Lunch,Make sure that it helps you get over the last stretch of the day.
-I would like to cook something,For what meal?,Dinner,Make sure it is not too heavy!
-I would like to cook something,For what meal?,"None, just in general", "I hope it'll taste good!"
+Do you have any activity recommendations?,How about drawing?,I do not know what to draw,Draw whatever comes to your mind. Let your arm flow and be abstract.
+Do you have any activity recommendations?,How about playing an instrument?,I do not know how to play,Try coming up with a little song without worrying about how it sounds. Noodle around.
+Do you have any activity recommendations?,How about cooking?,I do not know how to cook,"Start by throwing together ingredients. I discovered peanuts, oatmeal, and cottage cheese in my college dorm."
 
 // Hobbies
-I want to learn how to cook,"You will needs lots of practice! But don't forget to take all necessary precautions."
-I want to learn how to sew,"You may prick your finger a few times, but a slow and steady will help you learn!"
-"I can't seem to get the shading on this drawing right",Perhaps try to find a reference photo to aid you.
+I want to learn how to cook,"You will needs lots of practice, but make sure your creativity stays around! But don't forget to take all necessary precautions."
+I want to learn how to sew,"You may prick your finger a few times, but a slow and steady will help you learn! And then it will be another creative outlet for you."
+"I can't seem to get the shading on this drawing right",Perhaps try to find a reference photo or object to aid you. Imagine the light bouncing around.
 I like playing football!,What do you like about football?,Exercising,A fit lifestyle will greatly benefit you.
 I like playing football!,What do you like about football?,Teams,Working together is a necessary skill in life.
 I like playing soccer!,What do you like about football?,Exercising,A fit lifestyle will greatly benefit you.
@@ -95,6 +62,8 @@ I like playing baketball!,What do you like about football?,Teams,Working togethe
 I like playing hockey!,What do you like about hockey?,Teams,Working together is a necessary skill in life.
 I like playing hockey!,What do you like about hockey?,The ice,Be sure to stay safe!
 I like playing tennis!,What do you like about tennis?,The ball,The way it bounces IS mesmerizing.
+I'm tired,Try a sport or just clear your mind. Meditation and yoga are honestly great.
+What sport should I play?,"I like playing hockey, soccer, basketball, tennis, football, and more!"
 
 // Time-spenders
 Do you have any show recommendations?,What genre?,Anime,I hear Mob Psycho 100 is great.
@@ -106,21 +75,38 @@ I am trying to find a good book to read,It is good to enrich yourself.
 My room is messy,Then you should clean it,"But it's so much work",A tidy room will bring good tidings for you.
 My room is messy,Then you should clean it,I think I will,Good on you for keeping things organized and keeping yourself busy.
 
-//Slightly more specific convos and/or references
+//Easter eggs
 I am not the Imposter,Are you telling the truth?,Yes,"What if you are not? What was your last task?"
 I am not the Imposter,Are you telling the truth?,No,I think you need to work on your Imposter skills.
 Wendigo,Deer Lord.
 Creeper,Aw man.
 Do you wanna have a bad time?,"No, and I advise that you take the path that doesn't lead to one."
 Ping,Pong.
-
-//IDK
 Meow,"I'm sorry, I don't understand the language of cats."
 Woof,"I'm sorry, I don't understand the language of dogs."
 Oink,"I'm sorry, I don't understand the language of pigs."
 
-
-
-
-
-
+// General conversation
+I am feeling hungry,Is it meal time?,Yes,Might I recommend a sandwich?
+I am feeling hungry,Is it meal time?,No,Maybe a light snack will satiate you.
+I am feeling tired,Have you been getting enough sleep?,Yes,You must have been working hard, take some rest for now.
+I am feeling tired,Have you been getting enough sleep?,No, Maybe try sleeping earlier tonight.
+It is a nice day today,What catches your eye the most?,Clouds,They do look like giant sheep.
+It is a nice day today,What catches your eye the most?,The Sun,It does provide a nice warmth.
+I think I have misplaced something,Have you tried looking where you have been to before?
+It is raining today,Do you like the rain?,No,I hope it becomes sunny soon.
+It is stormy today,Please stay safe!
+"Let's get along",I would like that.
+Summer is ending,Did you have fun?,Yes,"All good things must come to an end, but that doesn't mean you can't stop experiencing different good things."
+Summer is ending,Did you have fun?,No,I hope you have fun in the fall then.
+Fall is coming,"That is nice, do you like anything about fall?",The cooler air,"It is refreshing, isn't it?"
+Fall is coming,"That is nice, do you like anything about fall?",The leaves,"Yes, they are very pretty, aren't they?"
+Fall is coming,"That is nice, do you like anything about fall?".No,I hope you will still find something enjoyable.
+Fall is coming,"That is nice, do you like anything about fall?",Apples,I hope that you can make a great pie from them.
+Halloween is coming,Will you be wearing a costume?,Yes,I hope that you will be able to get lots of candy with it.
+Halloween is coming,Will you be wearing a costume?,No,I hope you will still enjoy some candy.
+It is cold today,Will you be going outdoors?,Yes,Please be sure to dress up warmly!
+It is cold today,Will you be going outdoors?,No,Please make sure to stay warm!
+It is warm today,Will you be going outdoors?,Yes,Please be sure to stay hydrated!
+It is warm today,Will you be going outdoors?,No,What will you do today?
+I will be going outside,What will you be doing?,Just taking a walk,I hope it will be relaxing and give you space to think about what you wish.
