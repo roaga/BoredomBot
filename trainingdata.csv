@@ -9,7 +9,6 @@ What do I do now?,Do you have any work to do?,Yes,Take a quick break if you're e
 What can I do?,Have you been working a lot?,Yes,Relax your mind if you've been working a lot.
 What can I do?,Have you been working a lot?,No,Find something new to enrich yourself and inch toward your life goals.
 How are you today?,"I am doing well, all things considered. What about you?",I am doing great,That is good to hear.
-I wish it would rain,The rain can smell pretty wonderful.
 I'm lonely,What do you look for in a friend?, Fun,"Do you have those qualitites yourself? If not, make yourself the most interesting you can be to yourself."
 I am feeling sleepy,Is it nighttime?,No,Do you have work to do?,No,Consider using this time to explore new things or just your own mind.
 I am feeling sleepy,Is it nighttime?,Yes,Do you have work to do?,Yes,"Consider finishing up the task you are on now, and do not push yourself too hard."
@@ -110,3 +109,4 @@ It is cold today,Will you be going outdoors?,No,Please make sure to stay warm!
 It is warm today,Will you be going outdoors?,Yes,Please be sure to stay hydrated!
 It is warm today,Will you be going outdoors?,No,What will you do today?
 I will be going outside,What will you be doing?,Just taking a walk,I hope it will be relaxing and give you space to think about what you wish.
+I wish it would rain,The rain can smell pretty wonderful.
