@@ -1,76 +1,90 @@
-body
-{
-font-family: Garamond;
-background-color: black;
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
 }
-h1
-{
-color: black;
-margin-bottom: 0;
-margin-top: 0;
-text-align: center;
-font-size: 40px;
+h1 {
+    color: white;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: fixed;
+    top: 0;
+    padding: 16px;
+    width: 100%;
+    margin-bottom: 32px;
+    background-color: black;
 }
-h3
-{
-color: black;
-font-size: 20px;
-margin-top: 3px;
-text-align: center;
+h3 {
+    color: white;
+    font-size: 20px;
+    margin-top: 3px;
+    text-align: center;
+    font-weight: 500;
 }
-#chatbox
-{
-background-color: black;
-margin-left: auto;
-margin-right: auto;
-width: 40%;
-margin-top: 60px;
+#chatbox {
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 128px;
 }
 #userInput {
-margin-left: auto;
-margin-right: auto;
-width: 40%;
-margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top: 16px;
 }
 #textInput {
-width: 87%;
-border: none;
-border-bottom: 3px solid #009688;
-font-family: monospace;
-font-size: 17px;
+    width: 80%;
+    border: none;
+    border-bottom: 3px solid #009688;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    padding: 10px
 }
 #buttonInput {
-padding: 3px;
-font-family: monospace;
-font-size: 17px;
+    padding: 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    padding: 10px
 }
 .userText {
-color: white;
-font-family: monospace;
-font-size: 17px;
-text-align: right;
-line-height: 30px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    text-align: right;
+    line-height: 30px;
+    background-color: #009688;
+    margin-left: 51%;
 }
 .userText span {
-background-color: #009688;
-padding: 10px;
-border-radius: 2px;
+    background-color: #009688;
+    padding: 10px;
+    padding-right: 0px;
 }
 .botText {
-color: white;
-font-family: monospace;
-font-size: 17px;
-text-align: left;
-line-height: 30px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+    text-align: left;
+    line-height: 30px;
+    background-color: #EF5350;
 }
 .botText span {
-background-color: #EF5350;
-padding: 10px;
-border-radius: 2px;
+    background-color: #EF5350;
+    padding: 10px;
+    padding-left: 0px;
 }
 #tidbit {
-position:absolute;
-bottom:0;
-right:0;
-width: 300px;
+    position:absolute;
+    bottom:0;
+    right:0;
+    width: 300px;
+}
+
+p{
+    width: 49%;
+    padding: 10px
 }
