@@ -26,8 +26,8 @@ with open('trainingdata.csv', 'r') as read_obj:
             lists.append(row)
 
 # Train the bot
-trainer = ChatterBotCorpusTrainer(bot)
-trainer.train("chatterbot.corpus.english")
+# trainer = ChatterBotCorpusTrainer(bot)
+# trainer.train("chatterbot.corpus.english")
 trainer = ListTrainer(bot)
 for list in lists:
     trainer.train(list)
