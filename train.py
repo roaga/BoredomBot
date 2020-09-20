@@ -22,8 +22,9 @@ lists = []
 with open('trainingdata.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
     for row in csv_reader:
-        lists.append(row)
-        
+        if len(row) > 0 and "//" not in row[0]:
+            lists.append(row)
+
 # Train the bot
 trainer = ChatterBotCorpusTrainer(bot)
 trainer.train("chatterbot.corpus.english")

@@ -1,31 +1,38 @@
-import os
-from flask import Flask
+from flask import Flask, render_template, request
+from chatterbot import ChatBot
+from chatterbot.trainers import ChatterBotCorpusTrainer
+ 
+app = Flask(__name__)
+ 
+from chatterbot import ChatBot
 
+# Create a new instance of a ChatBot
+bot = ChatBot(
+    'BoreBot',
+    storage_adapter='chatterbot.storage.SQLStorageAdapter',
+    logic_adapters=[
+        {
+            "import_path": "chatterbot.logic.BestMatch",
+            'default_response': ("Perhaps you should do a little more thinking and" 
+                                " be more targeted in figuring out your own mind and purpose."),
+            'maximum_similarity_threshold': 0.70
+        }
+    ],
+    database_uri='sqlite:///../database.db'
+)
 
-def create_app(test_config=None):
-    # create and configure the app
-    app = Flask(__name__, instance_relative_config=True)
-    app.config.from_mapping(
-        SECRET_KEY='dev',
-        DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
-    )
-
-    if test_config is None:
-        # load the instance config, if it exists, when not testing
-        app.config.from_pyfile('config.py', silent=True)
-    else:
-        # load the test config if passed in
-        app.config.from_mapping(test_config)
-
-    # ensure the instance folder exists
-    try:
-        os.makedirs(app.instance_path)
-    except OSError:
-        pass
-
-    # a simple page that says hello
-    @app.route('/')
-    def hello():
-        return 'Hello, World!'
-
-    return app
+# Start program
+print("I'm guessing you're bored...")
+ 
+@app.route("/")
+def home():
+    return render_template("index.html")
+ 
+@app.route("/get")
+def get_bot_response():
+    userText = request.args.get('msg')
+    return str(bot.get_response(userText))
+ 
+ 
+if __name__ == "__main__":
+    app.run()
