@@ -21,9 +21,7 @@ bot = ChatBot(
     database_uri='sqlite:///../database.db'
 )
 
-# Start program
-print("I'm guessing you're bored...")
- 
+# Start program 
 @app.route("/")
 def home():
     return render_template("index.html")
