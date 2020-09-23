@@ -50,7 +50,8 @@ h3 {
     font-size: 17px;
     padding: 10px;
     background-color: #009688;
-    color: white
+    color: white;
+    border: none;
 }
 .userText {
     color: white;
