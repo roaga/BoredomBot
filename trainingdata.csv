@@ -17,8 +17,16 @@ I need work,For what reason?,Experience,I hope you will have an enriching experi
 I need work,For what reason?,Money,I hope you will also have an enriching experience while working so you can get the most value out of your time.
 I need work,For what reason?,Fun,Then I hope that your job fulfills your wishes.
 Hello,"Hello, how are you today?","I am doing fine, what about you?","Oh you know, the usual, talking to people all day. It's fun."
-Hello,Hello!,What are you?,I am an AI that will hopefully help you cure your boredom.
+Hello,Hello!,What are you?,I am an AI that will hopefully help you cure your boredom,How?,"Talk away, and let's see!"
 Goodbye,Goodbye! Have a nice day!
+I have too much work,Is it necessary to do all of it today?,Yes,Please make sure to take small breaks in between then.
+I have too much work,Is it necessary to do all of it today?,No,Then consider pacing it out over the next few days.
+I have a lot of responsibilities,Do you think it's tiresome to do all of them?,Yes,"Consider dropping a few, but make sure that you are fine with that first."
+I have a lot of responsibilities,Do you think it's tiresome to do all of them?,No,"Then continue on, but make sure that you don't get burned out."
+I am having a bad day,"I am sorry to hear that. Would you like to talk about it?",Yes,Then chat away.
+I am having a bad day,"I am sorry to hear that. Would you like to talk about it?",No,"Try talking about it at a later time then. It might help."
+Nothing has happened today,Then why don't you make something happen?,Seems like a lot of work,"But it's better than complaining, right?"
+Nothing has happened today,Then why don't you make something happen?,"You're right!",Why thank you.
 
 // Thinking and philosophy
 I don't have life goals,Use your boredom as time to think; who do you want to be and what can you do to get there? What can you do to be able to do what you need to do?,I don't know what I can do,I like going down the Google Search rabbit hole on something I care about.
@@ -44,6 +52,8 @@ What is your purpose?,To help you understand yourself and cure boredom.
 What is my purpose?,That is for you to find out and create.
 I don't have life goals,Use your boredom as time to think; who do you want to be and what can you do to get there? What can you do to be able to do what you need to do?,I don't know what I can do,I like going down the Google Search rabbit hole on something I care about.
 I don't have life goals,Then go find one,How?,Just try doing something without worrying about failure,Then what?,Go and see.
+Why does work exist,To help prevent idleness,Why is that helpful?,To help you find a purpose.
+
 
 // Creative endeavors
 I already watched everything,Then make something.
@@ -52,6 +62,7 @@ I'm out of things to play,Then make something to play,I don't know how,It's a gr
 Do you have any activity recommendations?,How about drawing?,I do not know what to draw,Draw whatever comes to your mind. Let your arm flow and be abstract.
 Do you have any activity recommendations?,How about playing an instrument?,I do not know how to play,Try coming up with a little song without worrying about how it sounds. Noodle around.
 Do you have any activity recommendations?,How about cooking?,I do not know how to cook,"Start by throwing together ingredients. I discovered peanuts, oatmeal, and cottage cheese in my college dorm."
+
 
 // Hobbies
 I like music,Play an instrument!,I don't have an instrument,"You can try making a homemade instrument or playing percussion, or better yet, digital music! Audacity, FL Studio, Bosca Ceoil, GarageBand, you name it!"
@@ -83,6 +94,7 @@ My room is messy,Then you should clean it,I think I will,Good on you for keeping
 //Easter eggs
 I am not the Imposter,Are you telling the truth?,Yes,"What if you are not? What was your last task?"
 I am not the Imposter,Are you telling the truth?,No,I think you need to work on your Imposter skills.
+"I don't want to work","Do your tasks, so we can get the Imposter out faster."
 Wendigo,Deer Lord.
 Creeper,Aw man.
 Do you wanna have a bad time?,"No, and I advise that you take the path that doesn't lead to one."
@@ -90,6 +102,8 @@ Ping,Pong.
 Meow,"I'm sorry, I don't understand the language of cats."
 Woof,"I'm sorry, I don't understand the language of dogs."
 Oink,"I'm sorry, I don't understand the language of pigs."
+What is my purpose?,Are you looking for a serious answer?,No,You pass butter,Oh my God,Welcome to the club.
+
 
 // General conversation
 I am feeling hungry,Is it meal time?,Yes,Might I recommend a sandwich?
