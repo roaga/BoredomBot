@@ -11,7 +11,7 @@ bot = ChatBot(
         {
             "import_path": "chatterbot.logic.BestMatch",
             'default_response': 'I am sorry, but I do not understand.',
-            'maximum_similarity_threshold': 0.90
+            'maximum_similarity_threshold': 0.51
         }
     ],
     database_uri='sqlite:///database.db'

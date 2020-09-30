@@ -9,7 +9,7 @@ bot = ChatBot(
             "import_path": "chatterbot.logic.BestMatch",
             'default_response': ("Perhaps you should do a little more thinking and" 
                                 " be more targeted in figuring out your own mind and purpose."),
-            'maximum_similarity_threshold': 0.70
+            'maximum_similarity_threshold': 0.51
         }
     ],
     database_uri='sqlite:///database.db'
