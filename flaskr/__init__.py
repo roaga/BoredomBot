@@ -10,6 +10,7 @@ from chatterbot import ChatBot
 bot = ChatBot(
     'BoreBot',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
+    # read_only = True,
     logic_adapters=[
         {
             "import_path": "chatterbot.logic.BestMatch",
